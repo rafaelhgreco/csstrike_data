@@ -1,0 +1,23 @@
+﻿metric,player,value
+rating,saffee (BR),1.22
+kills_per_round,saffee (BR),0.79
+kills_per_death,saffee (BR),1.3
+damage_per_round,saffee (BR),80.2
+headshot_percentage,saffee (BR),30.9
+opening_kill_rating,saffee (BR),1.14
+opening_kill_ratio,saffee (BR),1.47
+assists_per_round,saffee (BR),0.1
+saved_teammates_per_round,saffee (BR),0.1
+maps_played,saffee (BR),404
+rounds_played,saffee (BR),10701
+rating,ZywOo (France),1.32
+kills_per_round,ZywOo (France),0.84
+kills_per_death,ZywOo (France),1.37
+damage_per_round,ZywOo (France),88.0
+headshot_percentage,ZywOo (France),41.2
+opening_kill_rating,ZywOo (France),1.28
+opening_kill_ratio,ZywOo (France),1.6
+assists_per_round,ZywOo (France),0.12
+saved_teammates_per_round,ZywOo (France),0.12
+maps_played,ZywOo (France),1020
+rounds_played,ZywOo (France),26803
